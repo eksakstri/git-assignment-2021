@@ -54,3 +54,5 @@ Github handle Name: [IITian20](https://github.com/IITian20)
 ### Nikhil Nagar
 <a href="https://www.instagram.com/nikkkhil_nagar/"><img src="instalogo.png" width="50px" height="50px"></a>
 
+###Vishwa Prakash
+[<img src="icon.jpg">](https://www.instagram.com/vishwahaha_/)
