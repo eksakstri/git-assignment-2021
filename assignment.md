@@ -59,3 +59,6 @@ Github handle Name: [IITian20](https://github.com/IITian20)
 
 ### shreyansh jain
 <a href=https://www.facebook.com/rohan.jayshiv><img src="icons8-facebook-64.png" width="300px" height="300px"></img></a>
+
+###Saksham Tripathi 
+<a href="https://www.facebook.com/saksham.tripathi.75033"><img src = "icons8-facebook-64.png" alt="facebook"></a>
